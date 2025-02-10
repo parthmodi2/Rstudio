@@ -1,0 +1,7 @@
+a <- scan(what=character())
+b <- scan(what=character())
+c <- scan(what=character())
+a=as.integer(a)
+b=as.integer(b)
+c=as.integer(c)
+print(a+b+c)
